@@ -1,0 +1,11 @@
+10
+Harry Potter and the Sorcerers Stone,J.K. Rowling,Bloomsbury Publishing,0439708184
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Bloomsbury Publishing,0439708185
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Bloomsbury Publishing,0439708186
+To Kill a Mockingbird,Harper Lee,Harper,0062798189
+The Giver,Lois Lowry,HMH Books for Young Readers,9780544336261
+The Lord of the Rings: The Fellowship of the Ring,J.R.R Tolkein,Del Rey,0345538374
+The Lord of the Rings: The Twin Towers,J.R.R Tolkein,Del Rey,0345538375
+The Lord of the Rings: The Return of the King,J.R.R Tolkein,Del Rey,0345538376
+The Hobbit,J.R.R Tolkein,Del Rey,0345538377
+The Davinci Code,Dan Brown,Anchor,0307474275
